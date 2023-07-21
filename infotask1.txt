@@ -1,0 +1,9 @@
+The below java code implements a simple number gussing game.
+this program will genarate a random secrect number between a to 100.
+And the player has a limit for the attemps that is 5 the player can attempts only five times .
+After each guess ,the Program Povides feedback to the player gueess the correct number within the allowed attepts,
+A congatulatory message is displayes on the output terminal .
+If the players attempts the maximun no the player can view the message that he is gessing to high no.
+And the player has option to play again y/n.
+This code will demonstrate the use of classes and inheritance 
+And Basic control flow in java.
